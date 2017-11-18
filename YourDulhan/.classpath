@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Society/WebContent/WEB-INF/lib/mysql-connector-java-5.1.11-bin.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-7.0.79/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-7.0.79/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="F:/Spring/a-0.1.jar.zip"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/javassist-3.6.0.GA.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/jaxrs-api-2.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/jersey-core-1.11.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/jersey-multipart-1.19.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/jettison-1.3.3.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/mysql-connector-java-5.1.11-bin.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/resteasy-jackson-provider-3.0.10.Final.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/resteasy-jaxb-provider-2.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/resteasy-jaxrs-2.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/resteasy-jettison-provider-3.0.10.Final.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/resteasy-multipart-provider-3.0.10.Final.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/scannotation-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
