@@ -6,7 +6,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
@@ -14,8 +14,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="/Society/WebContent/WEB-INF/lib/mysql-connector-java-5.1.11-bin.jar"/>
-	<classpathentry kind="lib" path="C:/apache-tomcat-7.0.79/lib/servlet-api.jar"/>
-	<classpathentry kind="lib" path="C:/apache-tomcat-7.0.79/lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="F:/Spring/a-0.1.jar.zip"/>
 	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/activation-1.1.jar"/>
 	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/commons-io-2.4.jar"/>
@@ -44,5 +42,7 @@
 	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/scannotation-1.0.3.jar"/>
 	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/sun.misc.BASE64Decoder.jar"/>
 	<classpathentry kind="lib" path="/SocietyRepo 1 march/SocietyApi/WebContent/WEB-INF/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Spring/servlet-api-2.5-6.1.5.jar.zip"/>
+	<classpathentry kind="lib" path="F:/Spring/jsp-api-2.1.jar.zip"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
